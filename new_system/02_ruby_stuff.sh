@@ -10,4 +10,4 @@ sudo $HOME/git/ruby-install/bin/ruby-install --system --latest ruby
 git clone https://github.com/rubygems/rubygems.git $HOME/git/rubygems
 sudo ruby $HOME/git/rubygems/setup.rb
 
-
+sudo gem install bundler
