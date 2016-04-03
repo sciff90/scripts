@@ -6,7 +6,7 @@ sudo apt-get -y dist-upgrade
 sudo apt-get -y upgrade
 
 # get programs
-sudo apt-get -y install git openssh-server build-essential gparted terminator tmux zsh curl vlc mplayer ffmpeg
+sudo apt-get -y install git openssh-server build-essential gparted terminator tmux zsh curl vlc mplayer ffmpeg cmake
 
 # clone git config repo
 mkdir -p $HOME/git/config
